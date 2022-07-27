@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
 <h3 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h3>
 
-- 🔭 I’m currently working on **my PhD thesis project!**
+- 📊 I’m currently working on **my PhD thesis project!**
 
 - 🌱 I’m currently learning **SQL & Python**
 
-- 👯 I’m looking to collaborate on **any projects using R.**
-
-- 🤝 I’m looking for help with **professional tips in data science.**
+- 🤝 I’m looking to collaborate on **any projects using R.**
 
 - 💬 Ask me about **R and Environmental Sciences!**
 
