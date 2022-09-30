@@ -3,11 +3,11 @@
 
 - 📊 I’m currently working on **my PhD thesis project!**
 
-- 🌱 I’m currently learning **SQL & Python**
+- 🌱 I’m currently learning **Data Science with Python**
 
-- 🤝 I’m looking to collaborate on **any projects using R.**
+- 🤝 I’m looking to collaborate on **Data Analysis or Database projects.**
 
-- 💬 Ask me about **R and Environmental Sciences!**
+- 💬 Ask me anything about **Soil Science!**
 
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com**
 
