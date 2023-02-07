@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
 <h3 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h3>
 
+<h4>My profile picture has been generated using Stable Diffusion model calibrated with my face. The prompt used is top secret =]</h4>
+
 - 📊 I’m currently working on **my PhD thesis project!**
 
 - 🌱 I’m currently learning **Data Science with Python**
