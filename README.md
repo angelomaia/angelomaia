@@ -2,7 +2,11 @@
 <h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>
 
 ```
-My profile picture has been generated using Stable Diffusion model calibrated with my face. The prompt used is top secret =]
+My profile picture has been generated using Stable Diffusion model calibrated with my face. 
+
+The result was so astonishing that I had to share it with everyone.
+
+The prompt used is top secret =]
 ```
 
 - 📊 I’m currently working on **my PhD thesis project!**
