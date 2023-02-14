@@ -10,8 +10,8 @@ The prompt used is top secret =]
 ```
 
 - 📊 I’m currently working on **my PhD thesis project!** <br>
-- 🌱 I’m currently learning **Data Science with Python** <br>
-- 🤝 I’m looking to collaborate on **Data Analysis or Database projects.** <br>
+- 🌱 I’m currently learning **Data Science and Machine Learning with Python** <br>
+- 🤝 I’m looking to collaborate on **Data Analysis or Database projects using R, Python and SQL.** <br>
 - 💬 Ask me anything about **Soil Science!** <br>
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com** <br>
 
