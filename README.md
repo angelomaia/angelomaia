@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
-<h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>
+<!---<h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
+<h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>--->
 
 ```
 My profile picture has been generated using Stable Diffusion model calibrated with my face. 
