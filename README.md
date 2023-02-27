@@ -14,8 +14,10 @@ The prompt used is top secret =]
 - 🤝 I’m looking to collaborate on **Data Analysis or Database projects** using **R, Python and SQL.** <br>
 - 💬 Ask me anything about **Soil Science!** <br>
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com** <br>
-<h4 align="left">~~ Connect with me on <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="20" width="26" /></a> ~~ </h4>
+
+```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="20" width="26" /></a>
 <br>
+
 <div align="center">
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
