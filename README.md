@@ -15,7 +15,7 @@ The prompt used is top secret =]
 - 💬 Ask me anything about **Soil Science!** <br>
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com** <br>
 
-```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="20" width="26" /></a>
+```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
 <br>
 
 <div align="center">
