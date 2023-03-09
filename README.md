@@ -1,6 +1,11 @@
 <!---<h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
 <h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>--->
 
+<div align="left">
+  <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8467136A9" alt="Me!" height="128em"> 
+  <p>Hi 👋, I'm Angelo J. Maia!</p>
+</div> 
+
 ```
 My profile picture has been generated using Stable Diffusion model calibrated with my face. 
 
