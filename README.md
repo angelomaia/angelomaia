@@ -2,7 +2,7 @@
 <h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>--->
 
 <div align="left">
-  <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8467136A9" alt="Me!" height="128em"> 
+  <img src="https://angelomaia.github.io/images/contato.jpg" alt="Me!" height="128em"> 
   <p>Hi 👋, I'm Angelo J. Maia!</p>
 </div> 
 
