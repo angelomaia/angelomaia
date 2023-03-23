@@ -9,14 +9,14 @@
 ```
 My profile picture has been generated using Stable Diffusion model calibrated with my face. 
 
-The result was so astonishing that I had to share it with everyone.
+The result was so astonishing that I had to share it.
 
 The prompt used is top secret =]
 ```
 
 - 📊 I’m currently working on **my PhD thesis project!** <br>
 - 🌱 I’m currently learning **Data Science and Machine Learning with Python** <br>
-- 🤝 I’m looking to collaborate on **Data Analysis or Database projects** using **R, Python and SQL.** <br>
+- 🤝 I’m looking to collaborate on **any projects** using **R, Python and SQL.** <br>
 - 💬 Ask me anything about **Soil Science!** <br>
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com** <br>
 
