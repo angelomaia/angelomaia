@@ -7,9 +7,7 @@
 </div> 
 
 ```
-My profile picture has been generated using Stable Diffusion model calibrated with my face. 
-
-The result was so astonishing that I had to share it.
+My profile picture has been generated using Stable Diffusion model calibrated with my face.
 
 The prompt used is top secret =]
 ```
