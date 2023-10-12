@@ -13,9 +13,9 @@ The prompt used is top secret =]
 ```
 
 - 📊 I’m currently working on **my PhD thesis project!** <br>
-- 🌱 I’m currently learning **Data Science and Machine Learning with Python** <br>
+- 👨🏻‍💻 I’m currently learning **Data Science and Machine Learning with Python** <br>
 <!---- 🤝 I’m looking to collaborate on **any projects** using **R, Python and SQL.** <br>--->
-- 💬 Ask me anything about **Soil Science!** <br>
+- 🏞 Ask me anything about **Information Technology applied to Soil and Environmnental Sciences!** <br>
 - 📫 How to reach me: **e-mail me at request.angelo@gmail.com** <br>
 
 ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
