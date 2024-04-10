@@ -28,7 +28,7 @@ The prompt used is top secret =]
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
 
-<h3 align="left">My current favorite tools:</h3>
+<!---<h3 align="left">My current favorite tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/r-project-3521663-2945107.png" alt="R" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>--> </p>
   
 <!--- - 👋 Hi, I’m @angeloki
