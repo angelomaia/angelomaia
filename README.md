@@ -16,7 +16,8 @@ The prompt used is top secret =]
 <!-- - 👨🏻‍💻 I’m currently learning **Data Science and Machine Learning with Python** <br>--->
 <!-- - 🤝 I’m looking to collaborate on **any projects** using **R, Python and SQL.** <br>--->
 <!-- - 🏞 Ask me anything about **Information Technology applied to Soil and Environmental Sciences!** <br>--->
-- 📫 How to reach me: **request.angelo@gmail.com** | <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
+- 📫 Reach me at: **request.angelo@gmail.com** | <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
+<br>
 
 <!-- ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
 <br>--->
