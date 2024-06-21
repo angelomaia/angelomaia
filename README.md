@@ -2,21 +2,21 @@
 <h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>--->
 
 <div align="left">
-  <img src="https://angelomaia.github.io/images/contato.jpg" alt="Me!" height="128em"> 
+  <!---<img src="https://angelomaia.github.io/images/contato.jpg" alt="Me!" height="128em"> --->
   <p>Hi 👋, I'm Angelo J. Maia!</p>
 </div> 
 
-```
+<!---
 My profile picture has been generated using Stable Diffusion model calibrated with my face.
 
 The prompt used is top secret =]
-```
+--->
 
 - 📊 I’m currently working on **my PhD thesis project!** <br>
 <!-- - 👨🏻‍💻 I’m currently learning **Data Science and Machine Learning with Python** <br>--->
 <!-- - 🤝 I’m looking to collaborate on **any projects** using **R, Python and SQL.** <br>--->
 <!-- - 🏞 Ask me anything about **Information Technology applied to Soil and Environmental Sciences!** <br>--->
-- 📫 Reach me at: **request.angelo@gmail.com** | <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
+- 📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
 <br>
 
 <!-- ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
