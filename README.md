@@ -10,14 +10,13 @@
 My profile picture has been generated using Stable Diffusion model calibrated with my face.
 
 The prompt used is top secret =]
---->
 
 - 📊 I’m currently working on **my PhD thesis project!** <br>
+--->
 <!-- - 👨🏻‍💻 I’m currently learning **Data Science and Machine Learning with Python** <br>--->
 <!-- - 🤝 I’m looking to collaborate on **any projects** using **R, Python and SQL.** <br>--->
 <!-- - 🏞 Ask me anything about **Information Technology applied to Soil and Environmental Sciences!** <br>--->
-- 📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
-<br>
+
 
 <!-- ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
 <br>--->
@@ -73,4 +72,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
+<br>
+📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
