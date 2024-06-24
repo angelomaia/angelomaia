@@ -24,7 +24,7 @@ The prompt used is top secret =]
 <div align="left">
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
-  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&langs_count=6&theme=dark&hide=jupyter+notebook,HTML"/>
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&langs_count=5&theme=dark&hide=jupyter+notebook,HTML,CSS"/>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
 
