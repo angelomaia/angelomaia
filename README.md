@@ -20,6 +20,7 @@ The prompt used is top secret =]
 
 <!-- ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
 <br>--->
+## profile.rb
 
 ```ruby
 class AngeloMaia < Developer
@@ -32,6 +33,8 @@ angelo.open_to_work = true
 
 angelo.save!
 ```
+
+## Stats
 
 <div align="left">
   <a href="https://github.com/angelomaia">
@@ -53,7 +56,7 @@ angelo.save!
 angeloki/angeloki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3>Stacks</h3>
+## Stacks
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -79,7 +82,8 @@ You can click the Preview link to take a look at your changes.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 <br>
-<br>
+
+## Contact
 
 📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">LinkedIn</a>
 <!---<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>--->
