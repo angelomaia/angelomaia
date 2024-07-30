@@ -40,7 +40,7 @@ angelo.save!
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=6&theme=onedark&hide=jupyter+notebook,HTML"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&show=reviews&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&show=reviews&theme=onedark&include_all_commits=false&count_private=true&rank_icon=github"/>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
 
