@@ -1,11 +1,11 @@
 <!---<h1 align="center">Hi 👋, I'm Angelo J. Maia</h1>
-<h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>--->
+<h2 align="center">An aspiring Data Scientist, MSc and PhD Student in Soil Science</h2>
 
 <div align="left">
-  <!---<img src="https://angelomaia.github.io/images/contato.jpg" alt="Me!" height="128em"> --->
+<img src="https://angelomaia.github.io/images/contato.jpg" alt="Me!" height="128em">
   <p>Hi 👋, I'm Angelo J. Maia!</p>
 </div> 
-
+ --->
 <!---
 My profile picture has been generated using Stable Diffusion model calibrated with my face.
 
@@ -21,10 +21,23 @@ The prompt used is top secret =]
 <!-- ```Connect with me:``` <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">Linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="18" width="24" /></a>
 <br>--->
 
+```ruby
+class AngeloMaia < Developer
+end
+
+angelo = AngeloMaia.new
+
+angelo.main_stack = 'Ruby on Rails'
+angelo.open_to_work = true
+
+angelo.save!
+```
+
 <div align="left">
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&langs_count=5&theme=dark&hide=jupyter+notebook,HTML,CSS"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&show=reviews&include_all_commits=false&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=6&theme=dark&hide=jupyter+notebook,HTML"/>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
 
@@ -68,4 +81,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">linked<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>
+📫 Email me at request.angelo@gmail.com or connect with me at <a href="https://linkedin.com/in/angelo-jamil-maia" target="blank">LinkedIn</a>
+<!---<img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelo-jamil-maia" height="24" /><br></a>--->
