@@ -39,8 +39,8 @@ angelo.save!
 <div align="left">
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&show=reviews&include_all_commits=false&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=6&theme=dark&hide=jupyter+notebook,HTML"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&show=reviews&include_all_commits=false&count_private=true"/>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=angelomaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
 
@@ -68,7 +68,6 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<br>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
