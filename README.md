@@ -37,7 +37,7 @@ angelo.save!
 
 ## Stats
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/angelomaia">
   <!--<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=7&theme=dark"/>-->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelomaia&layout=compact&langs_count=6&theme=onedark&hide=jupyter+notebook,HTML"/>
