@@ -30,7 +30,7 @@ angelo = AngeloMaia.new
 
 angelo.main_stack = 'Ruby on Rails'
 angelo.email = 'request.angelo@gmail.com'
-angelo.open_to_work = true
+angelo.company = 'Rebase'
 
 angelo.save!
 ```
