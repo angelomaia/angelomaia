@@ -23,7 +23,7 @@ The prompt used is top secret =]
 ## profile.rb
 
 ```ruby
-class AngeloMaia < Developer
+class AngeloMaia < SoftwareDeveloper
 end
 
 angelo = AngeloMaia.new
