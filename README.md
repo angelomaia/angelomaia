@@ -35,6 +35,8 @@ angelo.company = 'Rebase'
 angelo.save!
 ```
 
+![](https://komarev.com/ghpvc/?username=angelomaia&color=orange&style=pixel)
+
 ## Contact
 <div align='center'>
 
